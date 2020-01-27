@@ -43,3 +43,4 @@ const getInfo = async ( direccion ) => {
 getInfo(argv.direccion)
     .then(console.log)
     .catch(console.log)
+
